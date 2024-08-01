@@ -1,0 +1,17 @@
+.butparent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.butchild {
+    border: none;
+    margin: 40px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.sp:hover {
+    color: blue;
+    text-decoration: underline;
+}

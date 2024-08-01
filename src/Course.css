@@ -1,0 +1,18 @@
+.allchild {
+    height: 400px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+.childflex {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: center;
+}
+
+.child {
+    text-align: center;
+}
